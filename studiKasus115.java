@@ -8,7 +8,6 @@ public class studiKasus115{
         int uangSisa,kurang;
         int potongan;
         
-
         System.out.print("massukkan jumlah cup ");
         jumlahCup=sc.nextInt();
         System.out.print("massukkan jumlah uang bayar ");
