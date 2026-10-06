@@ -17,6 +17,7 @@ public class StudiKasus2 {
                 || jenisKegiatan.equals("BAKORMA")
                 || jenisKegiatan.equals("Mandiri")) {
 
+                    
             System.out.print("peringkat juara : ");
             peringkat = sc.nextInt();
 
