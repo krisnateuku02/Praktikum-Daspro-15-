@@ -8,6 +8,6 @@ kelas:TI-1B
 | No | Jenis | Dokumen | Juara/Dana | Output | Sesuai? |
 |----|-------|---------|------------|--------|---------|
 | 1 | BAKORMA | 3 | Juara 1 | Dokumen tidak lengkap, dana tidak diberikan | Ya |
-| 2 | Mandiri | 4 | 0 | Tidak memperoleh dana penghargaan | Ya |
-| 3 | PKM | 4 | 1 | Berhak memperoleh dana penghargaan | Ya |
-| 4 | Lainnya | 4 | - | Tidak memperoleh dana penghargaan | Ya |
+| 2 | Mandiri | - | - | Kegiatan termasuk kategori Lainya | Tidak |
+| 3 | PKM | - | - | LOLOS | Tidak |
+| 4 | Lainnya | - | - | Kegiatan termasuk kategori lainya | Ya |
